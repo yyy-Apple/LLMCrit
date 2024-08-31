@@ -1,5 +1,5 @@
 # LLMCrit
-Here are the resources for ACL 2024 paper [LLMCRIT: Teaching Large Language Models to Use Criteria](https://arxiv.org/abs/2403.01069). We provide 
+Here are the resources for ACL 2024 paper [LLMCRIT: Teaching Large Language Models to Use Criteria]([https://arxiv.org/abs/2403.01069](https://aclanthology.org/2024.findings-acl.472/)). We provide 
 - Criteria together with constructed demonstrations for three tasks in `criteria_with_demonstrations` folder
 - Our constructed test data for three tasks in `test_data` folder
 
